@@ -18,6 +18,7 @@ public class Test {
         String s = null;
         if (s == null) {
             System.out.println("null");
+            System.out.println("LLLLL");
         } else {
             System.out.println("not null");
         }
