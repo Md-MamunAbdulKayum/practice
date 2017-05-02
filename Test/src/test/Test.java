@@ -16,10 +16,14 @@ public class Test {
      */
     public static void main(String[] args) {
         String s = null;
+<<<<<<< HEAD
         if (s == null) {           
             for(int i=0;i<3*(int)(Math.random() * 3);i++){
             System.out.println("git test");
             }
+=======
+        if (s == null) {
+>>>>>>> 681e35ef194b89e1e83aa443da2e59c453c3e51f
             System.out.println("null");
         } else {
             System.out.println("not null");
