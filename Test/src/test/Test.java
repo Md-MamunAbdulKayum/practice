@@ -25,6 +25,7 @@ public class Test {
         if (s == null) {
 >>>>>>> 681e35ef194b89e1e83aa443da2e59c453c3e51f
             System.out.println("null");
+            System.out.println("LLLLL");
         } else {
             System.out.println("not null");
         }
